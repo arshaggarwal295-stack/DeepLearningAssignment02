@@ -54,9 +54,3 @@ DeepLearningAssignment02/
 
 ## Results
 After training, results will be saved in the `results/` directory. You can visualize them using the provided scripts.
-
-## Contact Information
-For questions or inquiries, please contact:
-- **Name:** Arsh Agarwal
-- **Email:** arshaggarwal295@example.com
-- **GitHub:** [arshaggarwal295-stack](https://github.com/arshaggarwal295-stack)
